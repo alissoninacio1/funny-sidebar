@@ -14,7 +14,7 @@ aside {
     left: 0;
     /* left: -50px; I can use this part if I desire to use a menu showing the aside or not*/
     width: 50px;
-    height: 600px;
+    height: 1000px;
     padding: 10px;
     background: #040508;
     color: white;
@@ -202,3 +202,4 @@ li.active a > .gt-right {
 .exit {
     transform: rotate(180deg);
 }
+
