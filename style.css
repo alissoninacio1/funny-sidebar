@@ -14,7 +14,7 @@ aside {
     left: 0;
     /* left: -50px; I can use this part if I desire to use a menu showing the aside or not*/
     width: 50px;
-    height: 100vh;
+    height: 600px;
     padding: 10px;
     background: #040508;
     color: white;
